@@ -1,0 +1,81 @@
+07/04/2025 09:44 - As mensagens e ligações são protegidas com a criptografia de ponta a ponta. Somente as pessoas que fazem parte da conversa podem ler, ouvir e compartilhar esse conteúdo. Saiba mais
+07/04/2025 09:44 - Você criou este grupo
+07/04/2025 09:44 - Julio Cesar: 📋 INSTRUÇÕES PARA REGISTRAR VEÍCULOS APREENDIDOS:
+
+Por favor, envie as informações neste formato exato:
+
+PLACA, TIPO, DATA(dd-mm-YYYY), RE, PELOTÃO
+
+✅ Exemplos:
+ABC1234, A, 05-04-2025, 123456, RPMA  
+XYZ7890, M, 01-04-2025, 654321, INTCD
+
+🅰️ Tipo:  
+A = Auto  
+M = Moto  
+O = Outros
+
+🔰 Pelotões válidos:  
+A, B, C, D, REM, REV, RPMA, RPMC, INTAB, INTCD
+
+❌ Não envie mensagens fora desse padrão.
+✅ Uma linha por veículo.
+
+Obrigado!
+07/04/2025 09:45 - Você fixou uma mensagem
+07/04/2025 09:49 - Você mudou a imagem do grupo
+07/04/2025 09:51 - Julio Cesar: 📢 COMUNICADO IMPORTANTE
+
+Prezados,
+
+Este grupo foi criado com a finalidade exclusiva de registrar informações relativas aos veículos apreendidos, de forma padronizada, clara e organizada, visando otimizar o controle e facilitar a geração de relatórios para fins administrativos e estatísticos.
+
+Para tanto, solicitamos a colaboração de todos quanto ao envio das mensagens seguindo rigorosamente o modelo estabelecido, conforme instruções fixadas no topo do grupo.
+
+⚠️ Mensagens fora do padrão não serão consideradas e poderão comprometer a integridade dos dados.
+
+Agradecemos a compreensão e o comprometimento de todos.
+
+Atenciosamente,
+Cb Coelho
+07/04/2025 09:52 - Julio Cesar: Bom dia, caso queiram nomear alguem do pelotao para ficar no grupo podem adicioanr os mesmos
+07/04/2025 09:52 - Julio Cesar: e fiquem a vontade para sair do grupo
+07/04/2025 09:52 - Julio Cesar: ate mais de um não tem problema
+07/04/2025 09:56 - ‎Precaro adicionou Naiara Cia e Simoes
+07/04/2025 11:08 - ‎Nylson adicionou Febbe 38 e Volner
+10/04/2025 18:49 - ‎Dantas Cia adicionou ~ Vinicius Gonçalves
+10/04/2025 19:02 - Dantas Cia: FJD9F58, A, 02/04/25, 220756-7, PELB
+10/04/2025 19:03 - Dantas Cia: CRN5087, A, 02/04/25, 220756-7, PEL B.
+10/04/2025 19:11 - Dantas Cia: FRN2A19, A, 03/04/25, 220756-7, PEL B.
+10/04/2025 19:13 - Dantas Cia: ENB4C74, A, 05/04/25, 195911-5, PEL B.
+10/04/2025 19:15 - Dantas Cia: EFP3383, A, 06/04/25, 195911-5, PEL B. <Mensagem editada>
+10/04/2025 19:17 - Dantas Cia: FEL1B51, M, 07/04/25, 220756-7, PEL B.
+10/04/2025 19:20 - Dantas Cia: DUI6B91, M, 07/04/25, 195911-5, PEL B.
+10/04/2025 19:22 - Dantas Cia: FOH0G66, A, 07/04/25, 220756-7, PEL B.
+10/04/2025 19:24 - Dantas Cia: EEF1683, A, 08/04/25, 192412-5, PEL B.
+10/04/2025 20:54 - ‎João Neto Sgt adicionou ~ ㅤ
+10/04/2025 20:54 - ‎João Neto Sgt adicionou Dias 180 Cia
+12/04/2025 10:23 - Dias 180 Cia: ETS-1H60, A, 12/04/2025, 181817-1, A
+12/04/2025 10:23 - Dias 180 Cia: AQJ-6E36, A, 12/04/2025, 181817-1, A
+12/04/2025 14:16 - Naiara Cia: ENF6639, A, 01-04-2025, 211262-A, PEL C.
+12/04/2025 14:16 - Naiara Cia: AVH1821, A, 01-04-2025,120046-1, PEL C.
+12/04/2025 14:16 - Naiara Cia: DLU5719, M,01-04-2025, 172033-3, PEL C.
+12/04/2025 14:16 - Naiara Cia: GLW7200, A, 03-04-2025, 172033-3, PEL C
+12/04/2025 14:17 - Naiara Cia: SWG3E81, M, 03-04-2025, 211631-6,PEL C
+12/04/2025 14:17 - Naiara Cia: AVV9F45, A, 03-04-2025, 211626-A, PEL C
+12/04/2025 14:18 - Naiara Cia: DBX9745, A, 05-04-2025, 120046-1, PEL C
+12/04/2025 14:18 - Naiara Cia: KPT8G75, A, 05-04-2025, 120046-1, PEL C
+12/04/2025 14:18 - Naiara Cia: QXP6J94, A, 05-04-2025, 211262-A, PEL C
+12/04/2025 14:19 - Naiara Cia: HMW5E06, A, 05-04-2025, 211262-A, PEL C
+12/04/2025 14:19 - Naiara Cia: DLK5D46, M, 05-04-2025, 182371-0, PEL C
+12/04/2025 14:20 - Naiara Cia: DNO9G79, M, 07-04-2025,182371-0, PEL C
+12/04/2025 14:20 - Naiara Cia: CSI9A30, A, 07-04-2025, 242560-2, PEL C
+12/04/2025 14:20 - Naiara Cia: HDX3F01, M, 11-04-2025, 120046-1, PEL C
+12/04/2025 19:37 - +55 11 95675-2276: FCT4B60,A,02/04/2025,182120-2, PEL A
+ CLI7I73,A,06/04/2025,182120-2,  PEL A
+PYK0826, A,10/04/2025,181817-1, PEL A
+EDK5903, A,12/04/2025,210770-8, PEL A
+13/04/2025 06:15 - +55 11 95862-8482: FEV7I84, A, 12-04-2025, 137179-7, PEL B
+CYH1G69, A, 12-04-2025, 190648-8, PEL B
+FCU1H78, A, 12-04-2025, 242756-7, PEL B
+14/04/2025 08:55 - Você mudou as configurações para permitir que somente admins editem as configurações do grupo

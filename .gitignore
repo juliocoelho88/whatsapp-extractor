@@ -1,0 +1,8 @@
+# Arquivos gerados automaticamente
+*.xlsx
+*.csv
+mensagens_ignoradas.txt
+
+# Pasta do PyCharm (se usar)
+.idea/
+__pycache__/
